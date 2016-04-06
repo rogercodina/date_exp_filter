@@ -1,0 +1,9 @@
+name = Date exposed filter
+description = Date exposed filter
+version = "7.x-1.0"
+core = "7.x"
+package = Date
+dependencies[] = views
+dependencies[] = date_popup
+
+files[] = inc/date_exp_filter_handler_filter_changed.inc
